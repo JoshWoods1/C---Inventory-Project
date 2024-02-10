@@ -6,7 +6,7 @@ I made an inventory manager that allows a user to enter, delete, display, and se
 
 I wrote this project to get familiar with C++ and what it can do. There is a lot of things that I can stand to learn about it but it was fun to get experience with the language.
 
-#Video Link
+# Video Link
 
 [C++ Inventory Project](https://www.youtube.com/watch?v=kbqJkXZefAM)
 
